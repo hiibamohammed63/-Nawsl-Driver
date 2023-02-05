@@ -1,0 +1,158 @@
+<resources>
+    <string name="app_name">نوصل كابتن</string>
+    <string name="welcome_taji">مرحبا بك في نوصل كابتن</string>
+    <string name="hello">مرحبا</string>
+    <string name="sign_in_text">سجل الدخول في حسابك</string>
+    <string name="email_placeholder">البريد الإلكتروني</string>
+    <string name="email_hint">البريد الإلكتروني</string>
+    <string name="password_placeholder">كلمة المرور</string>
+    <string name="password_hint">********</string>
+    <string name="accountSignUp">انشئ حساب جديد</string>
+    <string name="sign_up_text">سجل الآن للحصول على حساب في نوصل كابتن</string>
+    <string name="forgotPassword">هل نسيت كلمة المرور؟</string>
+    <string name="fname_placeholder">الاسم الأول</string>
+    <string name="lname_placeholder">الاسم الثاني</string>
+    <string name="phone_number_placeholder">رقم الهاتف</string>
+    <string name="confirm_password_placeholder">تأكيد كلمة المرور</string>
+    <string name="sign_up">انشاء</string>
+    <string name="create_account">انشئ حساب</string>
+
+
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">الإعدادت</string>
+    <string name="loading">Authenticating</string>
+    <string name="in_use">تمّ استخدام هذا البريد الإلكتروني مسبقًا</string>
+
+    // Sign In Activity
+    <string name="email">البريد الإلكتروني</string>
+    <string name="password">كلمة المرور</string>
+    <string name="sign_in">تسجيل الدخول</string>
+    <string name="about_nawsl">نوصل</string>
+    <string name="auth_failed">تعذر توثيق الحساب</string>
+
+    // Sign Up Activity
+    <string name="nawsl_registration">أنشئ حساب نوصل</string>
+    <string name="first_name">الاسم الأول</string>
+    <string name="last_name">الاسم الاخير</string>
+    <string name="accountSignIn">العودة إلى تسجيل الدخول</string>
+    <string name="id_number">رقم التحقق</string>
+    <string name="confirm_password">تأكيد كلمة المرور</string>
+    <string name="reg_failed">تعذر انشاء الحساب حاول مرة أخرى في وقت لاحق</string>
+    <string name="err_500">هناك خطأ ما حلول مرة أخرى في وقت لاحق</string>
+    <string name="phone_number">رقم الهاتف</string>
+    <string name="title_activity_maps">نوصل كابتن</string>
+
+    // Home Activity
+    <string name="menu_home">الرئيسية</string>
+    <string name="menu_gallery">المحفظة</string>
+    <string name="menu_slideshow">البطاقة</string>
+    <string name="menu_tools">الأدوات</string>
+    <string name="menu_share">المشاركة</string>
+    <string name="menu_send">الإرسال</string>
+    <string name="default_info_title">الموقع الإفتراضي</string>
+    <string name="default_info_snippet">لم يتم العثور</string>
+    <string name="pick_place">حدد الموقع</string>
+    <string name="follow">Follow</string>
+    <string name="title_activity_passenger_home">الركاب</string>
+    <string name="pick_up">حدد نقطة الإنطلاق</string>
+    <string name="destination">حدد الوجهة المطلوبة</string>
+    <string name="book_ride">احجز مشوارك</string>
+    <string name="origin">من:</string>
+    <string name="dest">إلى:</string>
+    <string name="request_ride">طلب مشوار</string>
+    <string name="nawsl_driver">نوصل كابتن</string>
+
+    <string name="subscribe_to_weather">اشترك في الطقس</string>
+    <string name="log_token">Log Token</string>
+
+    <string name="msg_subscribed">Subscribed to weather topic</string>
+    <string name="msg_token_fmt" translatable="false">InstanceID Token: %s</string>
+
+    <string name="default_notification_channel_id" translatable="false">fcm_default_channel</string>
+    <!--
+        This is the name that users will see when interacting with this channel.
+        It should describe the category of notifications that will be sent through this channel
+     -->
+    <!-- [START fcm_default_icon_string] -->
+    <string name="default_notification_channel_name" translatable="true">الطقس</string>
+    <!-- [END fcm_default_icon_string] -->
+    <string name="msg_subscribe_failed">تعذر الإشتراك في الطقس</string>
+    <string name="fcm_message">FCM Message</string>
+    <string name="nothing">ليس لديك طلب  في الوقت الحالي</string>
+    <string name="request_text_notification">طلب توصيل</string>
+    <string name="distance_text">المسافة</string>
+    <string name="decline_request">الرفض</string>
+    <string name="accept_request">القبول</string>
+    <string name="placeholder_from">من: الواحة</string>
+    <string name="trip_progress">تفاصيل الرحلة</string>
+    <string name="end_trip">نهاية الرحلة</string>
+    <string name="start_trip">بداية الرحلة</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="vehicle_make_placeholder">تسجيل سيارة</string>
+    <string name="vehicle_reg_placeholder">رخصة السيارة</string>
+    <string name="end_trip_pop_up_text">تم الانتهاء من طلب رحلتك. هنا المبلغ الإجمالي المستحق للرحلة</string>
+    <string name="ksh">SDG</string>
+    <string name="_0000">0000</string>
+    <string name="welcome_long_text">لقد اتخذت الخطوة الأولى لتصبح كابتن في نوصل جهز السيارة الخاصة بك قبل أن تحصل على طلب الرحلة</string>
+    <string name="to_dashboard">لوحة التحكم</string>
+    <string name="my_profile">الملف الشخصي</string>
+    <string name="my_trips">رحلاتي</string>
+    <string name="settings">الإعدادات</string>
+    <string name="contact_us">اتصل بنا</string>
+    <string name="sign_out">تسجيل الخروج</string>
+    <string name="personal_information">المعلومات الشخصية</string>
+    <string name="vehicle_management">إعدادت السيارة</string>
+    <string name="vehicle_make">إنشاء سيارة</string>
+    <string name="vehicle_registration">استمارة المركبة</string>
+    <string name="add_vehicle">أضف السيارة</string>
+    <string name="no_vehicles_found">لم يتم العثور على سيارة</string>
+    <string name="set_up_your_taxi">سجل سيارتك</string>
+    <string name="skip_setup">تخطي تسجيل السيارة</string>
+    <string name="add_taxi">أضف سيارتك</string>
+    <string name="vehicle_brand">ماركة السيارة</string>
+    <string name="vehicle_model">الموديل</string>
+    <string name="year_of_manuf">السنة</string>
+    <string name="license_plate">رخصة القيادة</string>
+    <string name="vehicle_color">اللون</string>
+    <string name="seating_capacity">عدد المقاعد</string>
+    <string name="successful_setup">والآن احصل على طلب رحلة</string>
+    <string name="taxi_setup_complete">اكتمال تسجيل السيارة</string>
+    <string name="title_activity_settings">الإعدادات</string>
+
+    <!-- Preference Titles -->
+    <string name="messages_header">الرسائل</string>
+    <string name="sync_header">مزامنة</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">توقيعك</string>
+    <string name="reply_title">الرد الإفتراضي</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">مزامنة البريد الإلكتروني</string>
+    <string name="attachment_title">تنزيل المرفقات الواردة</string>
+    <string name="attachment_summary_on">تنزيل المرفقات تلقائيًا لرسائل البريد الإلكتروني الواردة
+    </string>
+    <string name="attachment_summary_off">تنزيل المرفقات يدويًا عند الطلب</string>
+    <string name="taxi_management">إعدادات السيارة</string>
+    <string name="terms_privacy_policy"><![CDATA[Terms & Privacy Policy]]></string>
+    <string name="account_setup_complete">تم بتجاح</string>
+    <string name="welcome_back_to_taji_driver">مرحبا بك مرة أخرة في نوصل كابتن</string>
+    <string name="forgot_password_text">هل نسيت بريدك الإلكتروني / كلمة المرور؟ فقط أدخل بريدك الإلكتروني وستكون على بعد نقرة واحدة من إعادة تعيين كلمة مرورك</string>
+    <string name="recovery_success">تم إعادة البريد الإلكتروني بنجاح</string>
+        <string name="desc_logo">Logo Aplikasi</string>
+
+
+        <!-- Base application theme. -->
+            <!-- Primary brand color. -->
+            <!-- Secondary brand color. -->
+            <!-- Status bar color. -->
+            <!-- Customize your theme here. -->
+
+
+
+    </resources>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_trips"
+            android:icon="@drawable/icon_cab"
+            android:fontFamily="@font/cairo"
+            android:title="@string/my_trips" />
+
+        <item
+            android:id="@+id/nav_settings"
+            android:icon="@drawable/icon_settings"
+            android:fontFamily="@font/cairo"
+            android:title="@string/settings" />
+
+        <item
+            android:id="@+id/nav_contacts"
+            android:icon="@drawable/icon_phone_call"
+            android:fontFamily="@font/cairo"
+            android:title="@string/contact_us" />
+
+        <item
+            android:id="@+id/sign_out"
+            android:icon="@drawable/icon_logout"
+            android:fontFamily="@font/cairo"
+            android:title="@string/sign_out" />
+    </group>
+
+</menu>

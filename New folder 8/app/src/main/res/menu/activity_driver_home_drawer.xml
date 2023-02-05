@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_menu_camera"
+            android:fontFamily="@font/cairo"
+            android:title="الملف الشخصي" />
+        <item
+            android:id="@+id/nav_gallery"
+            android:icon="@drawable/ic_menu_gallery"
+            android:fontFamily="@font/cairo"
+            android:title="رحلاتي" />
+        <item
+            android:id="@+id/nav_slideshow"
+            android:visible="false"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:fontFamily="@font/cairo"
+            android:title="عرض الصور" />
+        <item
+            android:id="@+id/nav_tools"
+            android:visible="false"
+            android:icon="@drawable/ic_menu_manage"
+            android:fontFamily="@font/cairo"
+            android:title="الأدوات" />
+    </group>
+
+    <item android:title="التواصل">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:fontFamily="@font/cairo"
+                android:title="الإعدادات" />
+
+            <item
+                android:id="@+id/nav_send"
+                android:icon="@drawable/ic_menu_send"
+                android:fontFamily="@font/cairo"
+                android:title="اتصل بنا" />
+
+            <item
+                android:id="@+id/sign_out"
+                android:icon="@drawable/ic_menu_send"
+                android:fontFamily="@font/cairo"
+                android:title="تسجيل الخروج" />
+        </menu>
+    </item>
+
+</menu>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "528275246808",
+    "project_id": "nawsldriver-eb04d",
+    "storage_bucket": "nawsldriver-eb04d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:528275246808:android:5076046a7bb731b8b951ad",
+        "android_client_info": {
+          "package_name": "com.nawsldriver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "528275246808-voj7cj174rdjcm8bdj8dqftc1adh7hfj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUScUyEMkOp74THRugzgO1N_oV2eLAMKE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "528275246808-voj7cj174rdjcm8bdj8dqftc1adh7hfj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

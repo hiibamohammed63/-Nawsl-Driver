@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorAccent">#77008D</color>
+    <color name="colorPrimary">#77008D</color>
+    <color name="colorPrimaryDark">#77008D</color>
+
+    // Other Dependant Color
+    <color name="dark_grey">#707B7C</color>
+    <color name="error">#FF0000</color>
+    <color name="light_grey">#EBEDEF</color>
+    <color name="lightGreen">#ABEBC6</color>
+    <color name="brown">#D18B49</color>
+    <color name="true_blue">#0000FF</color>
+    <color name="black">#000</color>
+        <color name="purple_500">@color/purple_700</color>
+        <color name="purple_700">#77008D</color>
+        <color name="teal_200">#FF03DAC5</color>
+        <color name="teal_700">#FF018786</color>
+        <color name="white">#FFFFFFFF</color>
+</resources>
